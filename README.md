@@ -1,2 +1,3 @@
 # calculator_using_js
-Example of Different Methods and Properties of Math Object which is made by me with the help of js(JavaScript) and html5 . 
+Example of Different Methods and Properties of Math Object which is made by me with the help of js(JavaScript) and html5. I was totally astonished to see the output of this calculation how easy to find this output by only clicking on the button. Thank you so much for visiting my project. Here is my project link.....
+https://mahabubazam.github.io/calculator_using_js/
